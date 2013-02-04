@@ -1,0 +1,17 @@
+html {
+	border-color:black;
+	background-color:#87CEEB;
+}
+
+body {
+	padding:3%;
+	font-family:Helvetica;
+	font-size:12px;
+    background-color:white;
+    text-align:left;
+}
+
+a.nav {
+	font-size:15px;
+	padding:1%;
+}
